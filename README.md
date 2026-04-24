@@ -1,5 +1,3 @@
-Here is a **clean, modern, and attractive README** you can directly use for your GitHub portfolio or project repositories.
-If you want, I can also customize it with your **picture, badges, GitHub stats, or project links**.
 
 ---
 
